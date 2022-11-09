@@ -8,6 +8,8 @@ This is my first Wordpress theme. It is intended for blogging with a first stati
 It is provided in a colorful retro style.
 Still in progress : last commit : add a menu
 
+V 0.1 : Setting up a base with little CSS
+
 ### Built With
 
 
