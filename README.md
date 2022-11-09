@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img alt="Cooltor" src="https://media2.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif?cid=ecf05e47kfgo2bp26hxvrt839x45rlqagl7jmfanlwpwu01y&rid=giphy.gif&ct=g" width="230">
 
 This is my first Wordpress theme. It is intended for blogging with a first static homepage.
 It is provided in a colorful retro style.
