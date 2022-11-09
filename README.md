@@ -6,6 +6,7 @@
 
 This is my first Wordpress theme. It is intended for blogging with a first static homepage.
 It is provided in a colorful retro style.
+Still in progress : last commit : add a menu
 
 ### Built With
 
@@ -60,6 +61,7 @@ Project Link: https://github.com/Cooltor/cooltorThemeForWordpress/
 ## Acknowledgements
 
 *https://capitainewp.io/formations/developper-theme-wordpress/
+
 *https://developer.wordpress.org/themes/
 
 
