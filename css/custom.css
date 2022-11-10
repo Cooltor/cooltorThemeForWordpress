@@ -1,8 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 .header{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 20px;
+    width: 100%;
     background-color: #7DAEB3;
 
 }
@@ -11,6 +18,8 @@ body{
     font-family: 'Fira Mono', monospace;
     background-color: #FFF0E5;
 }
+
+
 
 header img {
     width: 600px;
